@@ -1,3 +1,9 @@
+body{
+    background-color: rgb(249, 247, 247);
+}
+h1{
+    color: maroon;
+}
 .top{
     display: flex;
     justify-content: end;
@@ -19,4 +25,26 @@ h1{
 .menu{
     display: flex;
     justify-content: center;
+}
+.dessert{
+    border-radius: 100%;
+}
+.menuLink{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.mainMenu{
+    background-color: #e8bbe5;
+}
+footer{
+   
+    padding: 20px 20px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: #C57806;
 }
